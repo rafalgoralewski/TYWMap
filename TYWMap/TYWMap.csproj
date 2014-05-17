@@ -106,6 +106,9 @@
     <Resource Include="Assets\Maps\1512_Imperial_Circles.png" />
     <Resource Include="Assets\Maps\kreise.jpg" />
     <Resource Include="Assets\Maps\30YrsWar1Map.jpg" />
+    <Resource Include="Assets\DarkGrayChessboard.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
     <Content Include="Assets\Maps\Map01.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
