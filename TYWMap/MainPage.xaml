@@ -3,10 +3,15 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:converters="clr-namespace:TYWMap.Converters"
     mc:Ignorable="d"
     d:DesignHeight="890" d:DesignWidth="1300" Background="DarkGray" >
     
     <UserControl.Resources>
+
+        <converters:CvtBoolToVisibility x:Key="CvtBoolToVisibility" />
+        <converters:CvtStringToVisibility x:Key="CvtStringToVisibility" />
+
         <Style x:Key="SliderStyle" TargetType="Slider">
             <Setter Property="BorderThickness" Value="1"/>
             <Setter Property="Maximum" Value="10"/>
@@ -217,8 +222,12 @@
                             <RowDefinition Height="100" />
                             <RowDefinition Height="35" />
                         </Grid.RowDefinitions>
-                        <TextBlock x:Name="TblCurrentYear" Text="1625" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="50" />
-                        <Slider x:Name="SlrCyrrentYear"  Grid.Row="1" Maximum="32" BorderBrush="{x:Null}">
+                        <TextBlock x:Name="TblCurrentYear" Text="{Binding CurrentYear, Mode=TwoWay}" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="50" />
+                        <Slider x:Name="SlrCurrentYear"  
+                                Grid.Row="1" 
+                                Maximum="32" 
+                                BorderBrush="{x:Null}" 
+                                Value="{Binding CurrentYearSliderValue, Mode=TwoWay}">
                         	<Slider.Style>
                         		<StaticResource ResourceKey="SliderStyle"/>
                         	</Slider.Style>
@@ -226,16 +235,20 @@
                     </Grid>
                 </Canvas>
             </Canvas>
+            <!--RightPanel-->
             <StackPanel Grid.Column="1">
+                <!--Legend-->
                 <Canvas Background="DarkGray" Height="135" Width="400" Margin="20,0,0,0">
                     <Grid>
                         
                     </Grid>
                 </Canvas>
-                <Canvas  Background="DarkGray" Height="420" Width="400" Margin="20,50,0,100">
+                
+                <!--CountryInfo-->
+                <Canvas Background="DarkGray" Height="420" Width="400" Margin="20,50,0,100">
                     <Grid Height="420" Width="400">
                         <Grid.RowDefinitions>
-                            <!--    Nazwa   -->
+                            <!--    Nazwa, powod, cesarstwo, habsburg   -->
                             <RowDefinition Height="Auto" />
                             <!--    Wladca   -->
                             <RowDefinition Height="30" />
@@ -245,18 +258,65 @@
                             <RowDefinition Height="220" />
                         </Grid.RowDefinitions>
                         <StackPanel Grid.Row="0">
-                            <TextBlock x:Name="tblCountryName" Text="Nazwa" FontSize="40" HorizontalAlignment="Center"/>
-                            <TextBlock x:Name="tblReason" Text="Powód / stosunek do konfliktu" FontSize="15" HorizontalAlignment="Center" />
-                            <TextBlock x:Name="tblHREMember" Text="Członek Świętego Cesarstwa Rzymskiego" FontSize="15" HorizontalAlignment="Center" />
-                            <TextBlock x:Name="tblIsHabsburgTerritory" Text="We władaniu Habsburgów" FontSize="15" HorizontalAlignment="Center" />
+                            <TextBlock x:Name="tblCountryName" 
+                                       Text="{Binding CountryName, Mode=TwoWay}" 
+                                       FontSize="40" 
+                                       HorizontalAlignment="Center"/>
+                            <TextBlock x:Name="tblReason" 
+                                       Text="{Binding Reason, Mode=TwoWay}" 
+                                       FontSize="15" 
+                                       HorizontalAlignment="Center" 
+                                       Visibility="{Binding Reason, Converter={StaticResource CvtStringToVisibility}}"/>
+                            <TextBlock x:Name="tblHREMember" 
+                                       Text="Członek Świętego Cesarstwa Rzymskiego" 
+                                       Visibility="{Binding IsHRE, Converter={StaticResource CvtBoolToVisibility}}"                                       
+                                       FontSize="15" 
+                                       HorizontalAlignment="Center" />
+                            <TextBlock x:Name="tblIsHabsburgTerritory" 
+                                       Text="We władaniu Habsburgów" 
+                                       Visibility="{Binding IsHabsburg, Converter={StaticResource CvtBoolToVisibility}}"
+                                       FontSize="15" 
+                                       HorizontalAlignment="Center" />
                         </StackPanel>
-                        <TextBlock Grid.Row="1" Text="Władca" FontSize="15" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="20,0,0,0"/>
-                        <TextBlock Grid.Row="1" x:Name="tblRuler" Text="Władca" FontSize="15" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,20,0"/>
-                        <TextBlock Grid.Row="2" Text="Wyznanie" FontSize="15" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="20,0,0,0"/>
-                        <TextBlock Grid.Row="2" x:Name="tblReligion" Text="Religia" FontSize="15" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,20,0"/>
+                        <TextBlock 
+                            Grid.Row="1" 
+                            Text="Władca" 
+                            FontSize="15" 
+                            HorizontalAlignment="Left" 
+                            VerticalAlignment="Bottom" 
+                            Margin="20,0,0,0"/>
+                        <TextBlock 
+                            Grid.Row="1" 
+                            x:Name="tblRuler" 
+                            Text="{Binding RulerName, Mode=TwoWay}" 
+                            FontSize="15" 
+                            HorizontalAlignment="Right" 
+                            VerticalAlignment="Bottom" 
+                            Margin="0,0,20,0"/>
+                        <TextBlock 
+                            Grid.Row="2" 
+                            Text="Wyznanie" 
+                            FontSize="15" 
+                            HorizontalAlignment="Left" 
+                            VerticalAlignment="Bottom" 
+                            Margin="20,0,0,0"/>
+                        <TextBlock 
+                            Grid.Row="2" 
+                            x:Name="tblReligion" 
+                            Text="{Binding Religion, Mode=TwoWay}" 
+                            FontSize="15" 
+                            HorizontalAlignment="Right" 
+                            VerticalAlignment="Bottom" 
+                            Margin="0,0,20,0"/>
                         <ScrollViewer Grid.Row="3" Margin="10,0,10,0" BorderBrush="{x:Null}" >
-                            <TextBlock x:Name="tblDescription"  TextWrapping="Wrap" FontSize="15" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,20,0" Text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed accumsan ornare mi, sit amet imperdiet massa aliquam ut. Donec imperdiet elit quis dictum condimentum. Vestibulum ac condimentum augue, vel porttitor lorem. Duis quis ornare turpis. Nulla arcu libero, ornare sit amet tempor sed, rutrum ut velit. Morbi laoreet, mi eget aliquet ultrices, magna augue faucibus lorem, rhoncus congue ante odio non risus. Nullam interdum placerat molestie. Aliquam pretium libero in erat blandit adipiscing. Integer eros urna, rutrum sed tempor eget, consequat ac nisi. Sed lacinia id nibh vel condimentum. Praesent quam ante, ullamcorper pellentesque aliquet vitae, elementum et est. Duis consequat, velit elementum sodales congue, neque nulla porta est, sed euismod ligula nisl sollicitudin nunc."/>
-
+                            <TextBlock 
+                                x:Name="tblDescription" 
+                                TextWrapping="Wrap" 
+                                FontSize="15" 
+                                HorizontalAlignment="Right" 
+                                VerticalAlignment="Bottom" 
+                                Margin="0,0,20,0" 
+                                Text="{Binding Description, Mode=TwoWay}"/>
                         </ScrollViewer>
                     </Grid>
                 </Canvas>

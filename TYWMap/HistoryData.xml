@@ -1,0 +1,849 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<History>
+  <Year CurrentSliderValue="0" CurrentYear="Przed 1618 r.">
+    <Country SelectedProvince="PthAustria">
+      <CountryName>Austria</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName>Maksymilian III</RulerName>
+      <Reason></Reason>
+      <Religion>Katolicyzm</Religion>
+      <Description>gre3g3g3r</Description> 
+    </Country>
+    <Country SelectedProvince="PthSaxony">
+      <CountryName>Saksonia</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthPalatinate">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthBohemia">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthBavaria">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthSwiss">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthSavoy">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthBurgundy">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthLorraine">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthWurttemberg">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthBrandemburg">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthPomerania">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthFranken">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthHessen">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthHolstein">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthMecklenburg">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthHamburg">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthLuxemburg">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthLiege">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthCologne">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthFlanders">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthDutch">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthMunster">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthBrunswick">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthItalies">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthHungary">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthPoland">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthDennmark">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthSweden">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthEngland">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthFrance">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+  </Year>
+  <Year CurrentSliderValue="1" CurrentYear="1618 r.">
+    <Country SelectedProvince="PthAustria">
+      <CountryName>Austria</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName>Maksymilian III</RulerName>
+      <Reason></Reason>
+      <Religion>Katolicyzm</Religion>
+      <Description>gwge</Description> 
+    </Country>
+    <Country SelectedProvince="PthSaxony">
+      <CountryName>Saksonia</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthPalatinate">
+      <CountryName>Elektorat Palatynatu</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason>1</Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthBohemia">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthBavaria">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthSwiss">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthSavoy">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthBurgundy">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthLorraine">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthWurttemberg">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthBrandemburg">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthPomerania">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthFranken">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthHessen">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthHolstein">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthMecklenburg">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthHamburg">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthLuxemburg">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthLiege">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthCologne">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthFlanders">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthDutch">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthMunster">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthBrunswick">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthItalies">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthHungary">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthPoland">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthDennmark">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthSweden">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthEngland">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthFrance">
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+  </Year>
+</History>
+
+<!-- emoty year
+  <Year CurrentSliderValue="1">
+    <Country SelectedProvince="PthAustria">
+      <CurrentYear></CurrentYear>
+      <CountryName>Austria</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName>Maksymilian III</RulerName>
+      <Religion>Katolicyzm</Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthSaxony">
+      <CurrentYear></CurrentYear>
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthPalatinate">
+      <CurrentYear></CurrentYear>
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthBohemia">
+      <CurrentYear></CurrentYear>
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthBavaria">
+      <CurrentYear></CurrentYear>
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthSwiss">
+      <CurrentYear></CurrentYear>
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthSavoy">
+      <CurrentYear></CurrentYear>
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthBurgundy">
+      <CurrentYear></CurrentYear>
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthLorraine">
+      <CurrentYear></CurrentYear>
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthWurttemberg">
+      <CurrentYear></CurrentYear>
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthBrandemburg">
+      <CurrentYear></CurrentYear>
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthPomerania">
+      <CurrentYear></CurrentYear>
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthFranken">
+      <CurrentYear></CurrentYear>
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthHessen">
+      <CurrentYear></CurrentYear>
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthHolstein">
+      <CurrentYear></CurrentYear>
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthMecklenburg">
+      <CurrentYear></CurrentYear>
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthHamburg">
+      <CurrentYear></CurrentYear>
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthLuxemburg">
+      <CurrentYear></CurrentYear>
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthLiege">
+      <CurrentYear></CurrentYear>
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthCologne">
+      <CurrentYear></CurrentYear>
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthFlanders">
+      <CurrentYear></CurrentYear>
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthDutch">
+      <CurrentYear></CurrentYear>
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthMunster">
+      <CurrentYear></CurrentYear>
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthBrunswick">
+      <CurrentYear></CurrentYear>
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthItalies">
+      <CurrentYear></CurrentYear>
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthHungary">
+      <CurrentYear></CurrentYear>
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthPoland">
+      <CurrentYear></CurrentYear>
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthDennmark">
+      <CurrentYear></CurrentYear>
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthSweden">
+      <CurrentYear></CurrentYear>
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthEngland">
+      <CurrentYear></CurrentYear>
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthFrance">
+      <CurrentYear></CurrentYear>
+      <CountryName></CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName></RulerName>
+      <Religion></Religion>
+      <Description></Description> 
+    </Country>
+  </Year>
+  -->

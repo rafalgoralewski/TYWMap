@@ -77,11 +77,15 @@
     <Reference Include="System.Net" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Windows.Browser" />
+    <Reference Include="System.Xml.Linq, Version=5.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Converters\CvtStringToVisibility.cs" />
+    <Compile Include="Converters\CvtBoolToVisibility.cs" />
+    <Compile Include="Dictionaries\ReasonDescriptionDictionary.cs" />
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
@@ -102,6 +106,9 @@
     <None Include="Properties\AppManifest.xml" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="HistoryData.xml">
+      <SubType>Designer</SubType>
+    </Content>
     <Resource Include="Assets\Maps\tyw.png" />
     <Resource Include="Assets\Maps\1512_Imperial_Circles.png" />
     <Resource Include="Assets\Maps\kreise.jpg" />
