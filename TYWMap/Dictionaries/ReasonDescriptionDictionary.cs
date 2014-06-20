@@ -17,7 +17,18 @@ namespace TYWMap.Dictionaries
         {
             switch (number)
             {
-                case 1: return "Walczy przeciwko dominacji chrześcijan";
+                case 1: return "Nie akceptuje Ferdynanda II";
+                case 2: return "Wspiera Ferdynanda II";
+
+                case 3: return "Broni Cesarstwa przed najeźdźcą";
+                case 4: return "Wspiera protestantów, umacnia swoją pozycję na morzu Bałtyckim";
+                case 5: return "Przeprowadza inwazję, wspiera protestantów";
+                case 6: return "Osłabia pozycję Habsburgów, wspiera protestantów";
+
+                // Francja, okres szwedzki
+                case 7: return "Wspiera najeźdźcę";
+
+
                 default: return "";
             }
         }

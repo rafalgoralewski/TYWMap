@@ -9,6 +9,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Animation;
 using System.Windows.Shapes;
+using TYWMap.Dictionaries;
 
 namespace TYWMap
 {
@@ -36,6 +37,7 @@ namespace TYWMap
             if (sender is Path)
             {
                 string name = (sender as Path).Name;
+                SetProvincesColors();
                 SelectProvince(name);
             }
         }
@@ -46,6 +48,34 @@ namespace TYWMap
             provincesPaths.Single(x => x.Name == name).StrokeThickness = 3;
             provincesPaths.Single(x => x.Name == name).Stroke = new SolidColorBrush(Colors.Black);
             vm.SelectedProvince = name;
+        }
+
+        private void SetProvincesColors()
+        {
+            if (vm.CurrentMapMode == null)
+            {
+                return;
+            }
+
+            foreach (var province in provincesPaths)
+            {
+                if (vm.CurrentMapMode.Equals(MainPageViewModel.MAPMODE_REASON))
+                {
+                    province.Fill = vm.GetProvinceColorForReason(province.Name);
+                }
+                else if (vm.CurrentMapMode.Equals(MainPageViewModel.MAPMODE_RELIGION))
+                {
+                    province.Fill = vm.GetProvinceColorForReligion(province.Name);
+                }
+                else if (vm.CurrentMapMode.Equals(MainPageViewModel.MAPMODE_HRE))
+                {
+                    province.Fill = vm.GetProvinceColorForHRE(province.Name);
+                }
+                else if (vm.CurrentMapMode.Equals(MainPageViewModel.MAPMODE_HABSBURG))
+                {
+                    province.Fill = vm.GetProvinceColorForHabsburg(province.Name);
+                }
+            }
         }
 
         #region provincesListManagement
@@ -68,5 +98,44 @@ namespace TYWMap
         }
 
         #endregion
+
+        private void SlrCurrentYear_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
+        {
+            if(sender is Slider)
+            {
+                vm.CurrentYearSliderValue = (sender as Slider).Value;
+                SetProvincesColors();
+                SelectProvince(vm.SelectedProvince);
+            }
+        }
+
+        private void cbxMapMode_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            vm.CurrentMapMode = (sender as ComboBox).SelectedItem.ToString();
+
+            spMapModeHabsburg.Visibility = Visibility.Collapsed;
+            spMapModeHRE.Visibility = Visibility.Collapsed;
+            spMapModeReason.Visibility = Visibility.Collapsed;
+            spMapModeReligion.Visibility = Visibility.Collapsed;
+
+            if (vm.CurrentMapMode.Equals(MainPageViewModel.MAPMODE_REASON))
+            {
+                spMapModeReason.Visibility = Visibility.Visible;
+            }
+            else if (vm.CurrentMapMode.Equals(MainPageViewModel.MAPMODE_RELIGION))
+            {
+                spMapModeReligion.Visibility = Visibility.Visible;
+            }
+            else if (vm.CurrentMapMode.Equals(MainPageViewModel.MAPMODE_HRE))
+            {
+                spMapModeHRE.Visibility = Visibility.Visible;
+            }
+            else if (vm.CurrentMapMode.Equals(MainPageViewModel.MAPMODE_HABSBURG))
+            {
+                spMapModeHabsburg.Visibility = Visibility.Visible;
+            }
+
+            SetProvincesColors();
+        }
     }
 }

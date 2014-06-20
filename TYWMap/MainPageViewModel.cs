@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
 using System.Net;
@@ -18,10 +19,13 @@ namespace TYWMap
     public class MainPageViewModel : INotifyPropertyChanged
     {
         #region prop
-        private string FILENAME = "HistoryData";
+        private const string FILENAME = "HistoryData";
+        public const string MAPMODE_REASON = "Strony konfliktu";
+        public const string MAPMODE_RELIGION = "Wyznanie";
+        public const string MAPMODE_HABSBURG = "Wpływy Habsburgów";
+        public const string MAPMODE_HRE = "Terytorium Cesarstwa";
 
         XDocument historyData;
-
         private string selectedProvince;
         private string currentYear;
         private string countryName;
@@ -32,6 +36,9 @@ namespace TYWMap
         private double currentYearSliderValue;
         private string description;
         private string reason;
+        private List<string> mapModes;
+
+        public string CurrentMapMode { get; set; }
 
         public string SelectedProvince
         {
@@ -134,6 +141,17 @@ namespace TYWMap
                 NotifyOnPropertyChanged("Reason");
             }
         }
+
+        public List<string> MapModes
+        {
+            get { return mapModes; }
+            set
+            {
+                mapModes = value;
+                NotifyOnPropertyChanged("MapModes");
+            }
+        }      
+
         #endregion
 
         public MainPageViewModel()
@@ -164,6 +182,14 @@ namespace TYWMap
                 int xmlReason;
                 int.TryParse(province.Descendants("Reason").Single().Value, out xmlReason);
                 this.Reason = ReasonDescriptionDictionary.GetReason(xmlReason);
+                
+                this.mapModes = new List<string>() 
+                {
+                    MAPMODE_REASON,
+                    MAPMODE_RELIGION,
+                    MAPMODE_HABSBURG,
+                    MAPMODE_HRE
+                };
             }
             catch
             {
@@ -179,5 +205,85 @@ namespace TYWMap
                 PropertyChanged(this, new PropertyChangedEventArgs(PropertyName));
             }
         }
+
+        #region province colors
+
+        public Brush GetProvinceColorForReason(string provinceName)
+        {
+            int xmlReason = 0;
+            try
+            {
+                double slider = Math.Floor(this.currentYearSliderValue);
+                var history = historyData.Root.Descendants("Year");
+                var year = history.Single(x =>
+                    double.Parse(x.Attribute("CurrentSliderValue").Value) == slider);
+                var province = year.Descendants("Country").Single(x =>
+                    x.Attribute("SelectedProvince").Value.Equals(provinceName));
+                int.TryParse(province.Descendants("Reason").Single().Value, out xmlReason);
+            }
+            catch
+            {
+            }
+            return ColorDictionary.GetReasonColor(xmlReason);
+        }
+
+        public Brush GetProvinceColorForReligion(string provinceName)
+        {
+            string xmlReligion = String.Empty;
+            try
+            {
+                double slider = Math.Floor(this.currentYearSliderValue);
+                var history = historyData.Root.Descendants("Year");
+                var year = history.Single(x =>
+                    double.Parse(x.Attribute("CurrentSliderValue").Value) == slider);
+                var province = year.Descendants("Country").Single(x =>
+                    x.Attribute("SelectedProvince").Value.Equals(provinceName));
+                xmlReligion = province.Descendants("Religion").Single().Value;
+            }
+            catch
+            {
+            }
+            return ColorDictionary.GetReligionColor(xmlReligion);
+        }
+
+        public Brush GetProvinceColorForHabsburg(string provinceName)
+        {
+            bool xmlHabsburg = false;
+            try
+            {
+                double slider = Math.Floor(this.currentYearSliderValue);
+                var history = historyData.Root.Descendants("Year");
+                var year = history.Single(x =>
+                    double.Parse(x.Attribute("CurrentSliderValue").Value) == slider);
+                var province = year.Descendants("Country").Single(x =>
+                    x.Attribute("SelectedProvince").Value.Equals(provinceName));
+                bool.TryParse(province.Descendants("IsHabsburg").Single().Value, out xmlHabsburg);
+            }
+            catch
+            {
+            }
+            return ColorDictionary.GetHabsburgColor(xmlHabsburg);
+        }
+
+        public Brush GetProvinceColorForHRE(string provinceName)
+        {
+            bool xmlHRE = false;
+            try
+            {
+                double slider = Math.Floor(this.currentYearSliderValue);
+                var history = historyData.Root.Descendants("Year");
+                var year = history.Single(x =>
+                    double.Parse(x.Attribute("CurrentSliderValue").Value) == slider);
+                var province = year.Descendants("Country").Single(x =>
+                    x.Attribute("SelectedProvince").Value.Equals(provinceName));
+                bool.TryParse(province.Descendants("IsHRE").Single().Value, out xmlHRE);
+            }
+            catch
+            {
+            }
+            return ColorDictionary.GetHREColor(xmlHRE);
+        }
+
+        #endregion
     }
 }

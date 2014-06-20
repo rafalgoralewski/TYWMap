@@ -5,280 +5,280 @@
       <CountryName>Austria</CountryName>
       <IsHRE>true</IsHRE>
       <IsHabsburg>true</IsHabsburg>
-      <RulerName>Maksymilian III</RulerName>
+      <RulerName>Maciej Habsburg</RulerName>
       <Reason></Reason>
       <Religion>Katolicyzm</Religion>
-      <Description>gre3g3g3r</Description> 
+      <Description>Z Austrii wywodził się ród Habsburgów. Zajmowali oni w 1618 r. trony m.in. Hiszpanii, Niderlandów Czech i Węgier. Pomimo podziału dynastii na kilka linii, rodzina była jednomyślna, jednowyznaniowa i wspierała się w czasach kryzysu.</Description> 
     </Country>
     <Country SelectedProvince="PthSaxony">
       <CountryName>Saksonia</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Jan Jerzy I Wettyn</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Luteranizm</Religion>
+      <Description></Description>
     </Country>
     <Country SelectedProvince="PthPalatinate">
-      <CountryName></CountryName>
+      <CountryName>Elektorat Palatynatu</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Fryderyk V Wittelsbach</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
+      <Religion>Kalwinizm</Religion>
       <Description></Description> 
     </Country>
     <Country SelectedProvince="PthBohemia">
-      <CountryName></CountryName>
+      <CountryName>Królestwo Czeskie</CountryName>
       <IsHRE>true</IsHRE>
       <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <RulerName>Cesarz Maciej Habsburg</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Katolicyzm</Religion>
+      <Description>Decyzją elektorów, koronę cesarza otrzymywał zawsze król Czech. Obecny król, Maciej, nie miał syna. W takiej sytuacji tron mógł objąć któryś z jego dalszych krewnych.</Description> 
     </Country>
     <Country SelectedProvince="PthBavaria">
-      <CountryName></CountryName>
+      <CountryName>Księstwo Bawarii</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Maksymilian I Bawarski</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Katolicyzm</Religion>
+      <Description></Description>
     </Country>
     <Country SelectedProvince="PthSwiss">
-      <CountryName></CountryName>
+      <CountryName>Szwajcaria</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Arystokracja</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Zwilingianizm</Religion>
+      <Description>Szwajcaria od momentu wywalczenia praw do wyznawania swojej odmiany protestantyzmu (w czasie wojenj religijnych w XVI w.) nie angażowała się w żadne wojny. Nie przeszkadzało to szwajcarom formować się w oddziały najemników.</Description>
     </Country>
     <Country SelectedProvince="PthSavoy">
-      <CountryName></CountryName>
+      <CountryName>Księstwo Sabaudii</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Karol Emanuel I Wielki</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
+      <Religion>Katolicyzm</Religion>
       <Description></Description> 
     </Country>
     <Country SelectedProvince="PthBurgundy">
-      <CountryName></CountryName>
+      <CountryName>Franche-Comté</CountryName>
       <IsHRE>true</IsHRE>
       <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <RulerName>Unia personalna (Filip IV)</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Katolicyzm</Religion>
+      <Description>Franche-Comté było terytorium Francuskim pod rządami Habsburgów z linii hiszpańskiej.</Description> 
     </Country>
     <Country SelectedProvince="PthLorraine">
-      <CountryName></CountryName>
+      <CountryName>Księstwo Lotaryngii</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Henryk II Lotaryński</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
+      <Religion>Katolicyzm</Religion>
       <Description></Description> 
     </Country>
     <Country SelectedProvince="PthWurttemberg">
-      <CountryName></CountryName>
+      <CountryName>Księstwo Wirtembergii</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Jan Fryderyk Wirtemberski</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Luteranizm</Religion>
+      <Description></Description>
     </Country>
     <Country SelectedProvince="PthBrandemburg">
-      <CountryName></CountryName>
+      <CountryName>Księstwo Brandemburgii</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Jan Zygmunt Hohenzollern</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Kalwinizm</Religion>
+      <Description></Description>
     </Country>
     <Country SelectedProvince="PthPomerania">
-      <CountryName></CountryName>
+      <CountryName>Księstwo Meklemburgii</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Jan Albrecht II</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Luteranizm</Religion>
+      <Description></Description>
     </Country>
     <Country SelectedProvince="PthFranken">
-      <CountryName></CountryName>
+      <CountryName>Frankonia</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
+      <IsHabsburg>false</IsHabsburg>
       <RulerName></RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Katolicyzm</Religion>
+      <Description></Description>
     </Country>
     <Country SelectedProvince="PthHessen">
-      <CountryName></CountryName>
+      <CountryName>Księstwo Hesji</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Maurycy Uczony</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
+      <Religion>Luteranizm</Religion>
       <Description></Description> 
     </Country>
     <Country SelectedProvince="PthHolstein">
-      <CountryName></CountryName>
+      <CountryName>Księstwo Holsztynu</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Fryderyk VI Oldenburg</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Luteranizm</Religion>
+      <Description></Description>
     </Country>
     <Country SelectedProvince="PthMecklenburg">
-      <CountryName></CountryName>
+      <CountryName>Księstwo Meklemburgii</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Jan Albrecht II</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Luteranizm</Religion>
+      <Description></Description>
     </Country>
     <Country SelectedProvince="PthHamburg">
-      <CountryName></CountryName>
+      <CountryName>Hamburg</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
+      <IsHabsburg>false</IsHabsburg>
       <RulerName></RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Luteranizm</Religion>
+      <Description></Description>
     </Country>
     <Country SelectedProvince="PthLuxemburg">
-      <CountryName></CountryName>
+      <CountryName>Luksemburg</CountryName>
       <IsHRE>true</IsHRE>
       <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <RulerName>Filip IV</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Katolicyzm</Religion>
+      <Description>Luksemburg znajdował się w tym czasie pod władaniem hiszpańskich Habsburgów.</Description> 
     </Country>
     <Country SelectedProvince="PthLiege">
-      <CountryName></CountryName>
+      <CountryName>Liege</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
+      <IsHabsburg>false</IsHabsburg>
       <RulerName></RulerName>
       <Reason></Reason>
-      <Religion></Religion>
+      <Religion>Katolicyzm</Religion>
       <Description></Description> 
     </Country>
     <Country SelectedProvince="PthCologne">
-      <CountryName></CountryName>
+      <CountryName>Kolonia</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
+      <IsHabsburg>false</IsHabsburg>
       <RulerName></RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
-    </Country>
-    <Country SelectedProvince="PthFlanders">
-      <CountryName></CountryName>
-      <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
-      <Reason></Reason>
-      <Religion></Religion>
+      <Religion>Katolicyzm</Religion>
       <Description></Description> 
     </Country>
     <Country SelectedProvince="PthDutch">
-      <CountryName></CountryName>
+      <CountryName>Republika Zjednoczonych Prowincji</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Maurycy Orański</RulerName>
+      <Reason></Reason>
+      <Religion>Kalwinizm</Religion>
+      <Description>Republika Zjednoczonych Prowincji walczyła w tym czasie z Hiszpanią. Powodem konfliktu były roszczenia Hiszpanii do tronu Niderlandów. Był to silny ośrodek protestantyzmu w Europie.</Description> 
+    </Country>
+    <Country SelectedProvince="PthFlanders">
+      <CountryName>Hiszpańskie Niderlandy</CountryName>
       <IsHRE>true</IsHRE>
       <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <RulerName>Filip IV</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Katolicyzm</Religion>
+      <Description>Republika Zjednoczonych Prowincji walczyła w tym czasie z Hiszpanią. Powodem konfliktu były roszczenia Hiszpanii do tronu Niderlandów. Był to silny ośrodek protestantyzmu w Europie.</Description>
     </Country>
     <Country SelectedProvince="PthMunster">
-      <CountryName></CountryName>
+      <CountryName>Westfalia</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
+      <IsHabsburg>false</IsHabsburg>
       <RulerName></RulerName>
       <Reason></Reason>
-      <Religion></Religion>
+      <Religion>Luteranizm</Religion>
       <Description></Description> 
     </Country>
     <Country SelectedProvince="PthBrunswick">
-      <CountryName></CountryName>
+      <CountryName>Księstwo Brunszwiku</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Fryderyk Ulryk</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
+      <Religion>Kalwinizm</Religion>
       <Description></Description> 
     </Country>
     <Country SelectedProvince="PthItalies">
-      <CountryName></CountryName>
-      <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
+      <CountryName>Milan i Wenecja</CountryName>
+      <IsHRE>false</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
       <RulerName></RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Katolicyzm</Religion>
+      <Description>Milan (Członek Świętego Cesarstwa Rzymskiego) i Wenecja nie uczestniczyły w wojnie</Description> 
     </Country>
     <Country SelectedProvince="PthHungary">
-      <CountryName></CountryName>
-      <IsHRE>true</IsHRE>
+      <CountryName>Królestwo Węgier</CountryName>
+      <IsHRE>false</IsHRE>
       <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <RulerName>Unia personalna</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Kalwinizm</Religion>
+      <Description>Na tronie węgier zasiadał Habsburg z linii cesarskiej, czyli ta sama osoba co na tronie Czech. Z powodu braku przynależności Węgier do Cesarstwa, trudno było określić jednolite wyznanie. Jako że Węgrzy w większości wyznawali Kalwinizm, dochodziło na tym tle do sporów.</Description> 
     </Country>
     <Country SelectedProvince="PthPoland">
-      <CountryName></CountryName>
-      <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <CountryName>Rzeczpospolita Obojga Narodów</CountryName>
+      <IsHRE>false</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Jan II Kazimierz</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Katolicyzm</Religion>
+      <Description>Rzeczpospolita Obojga Narodów była unią personalną Polski i Litwy, kontynuowaną po wygaśnięciu dynastii Jagiellonów. Państwem władali królowe elekcyjni. Rzeczpospolita nie brałą udziału w Wojnie Trzydziestoletniej, za wyjątkiem grupy najemników - Lisowczyków, którzy wyróżniali się wyjątkową bezwzględnością.</Description>
     </Country>
     <Country SelectedProvince="PthDennmark">
-      <CountryName></CountryName>
-      <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <CountryName>Królestwo Danii i Norwegii</CountryName>
+      <IsHRE>false</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Chrystian IV Oldenburg</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
+      <Religion>Luteranizm</Religion>
       <Description></Description> 
     </Country>
     <Country SelectedProvince="PthSweden">
-      <CountryName></CountryName>
-      <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <CountryName>Królestwo Szwecji</CountryName>
+      <IsHRE>false</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Gustaw II Adolf</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Luteranizm</Religion>
+      <Description></Description>
     </Country>
     <Country SelectedProvince="PthEngland">
-      <CountryName></CountryName>
-      <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <CountryName>Anglia</CountryName>
+      <IsHRE>false</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Jakub I Stuart</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Anglikanizm</Religion>
+      <Description>Poza próbą mediacji między czeskimi rebeliantami a cesarzem, Anglia nie uczestniczyła w wojnie.</Description> 
     </Country>
     <Country SelectedProvince="PthFrance">
-      <CountryName></CountryName>
-      <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <CountryName>Królestwo Francji</CountryName>
+      <IsHRE>false</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Ludwik XIII Sprawiedliwy</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Katolicyzm</Religion>
+      <Description></Description>
     </Country>
   </Year>
   <Year CurrentSliderValue="1" CurrentYear="1618 r.">
@@ -286,279 +286,841 @@
       <CountryName>Austria</CountryName>
       <IsHRE>true</IsHRE>
       <IsHabsburg>true</IsHabsburg>
-      <RulerName>Maksymilian III</RulerName>
-      <Reason></Reason>
+      <RulerName>Ferdynand II Habsburg</RulerName>
+      <Reason>2</Reason>
       <Religion>Katolicyzm</Religion>
-      <Description>gwge</Description> 
+      <Description>Austria wysyła wojska przeciwko buntownikom w Królestwie Czeskim. W tym samym czasie na południu Austrii wybucha powstanie religijne, które prowadzi do oblężenia Wiednia.</Description> 
     </Country>
     <Country SelectedProvince="PthSaxony">
       <CountryName>Saksonia</CountryName>
       <IsHRE>true</IsHRE>
       <IsHabsburg>false</IsHabsburg>
-      <RulerName></RulerName>
+      <RulerName>Jan Jerzy I Wettyn</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Luteranizm</Religion>
+      <Description></Description>
     </Country>
     <Country SelectedProvince="PthPalatinate">
       <CountryName>Elektorat Palatynatu</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Fryderyk V Wittelsbach</RulerName>
       <Reason>1</Reason>
-      <Religion></Religion>
+      <Religion>Kalwinizm</Religion>
       <Description></Description> 
     </Country>
     <Country SelectedProvince="PthBohemia">
-      <CountryName></CountryName>
-      <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
-      <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <CountryName>Królestwo Czeskie</CountryName>
+      <IsHRE>false</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>???</RulerName>
+      <Reason>1</Reason>
+      <Religion>Husytyzm</Religion>
+      <Description>Po bezdzietnej śmierci Macieja Habsburga tron odziedziczył Ferdynand II Habsburg, również katolik. Wedłuj protestanckiej szlachty czeskiej, prawowitym następcą tronu był Fryderyk V. Dodatkowo, czesi przyłączyli się do Unii Protestanckiej, inicjując serię powstań na tle religijnym w Austrii i Transylwanii</Description> 
     </Country>
     <Country SelectedProvince="PthBavaria">
-      <CountryName></CountryName>
+      <CountryName>Księstwo Bawarii</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Maksymilian I Bawarski</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Katolicyzm</Religion>
+      <Description></Description>
     </Country>
     <Country SelectedProvince="PthSwiss">
-      <CountryName></CountryName>
+      <CountryName>Szwajcaria</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Arystokracja</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Zwilingianizm</Religion>
+      <Description>Szwajcaria od momentu wywalczenia praw do wyznawania swojej odmiany protestantyzmu (w czasie wojenj religijnych w XVI w.) nie angażowała się w żadne wojny. Nie przeszkadzało to szwajcarom formować się w oddziały najemników.</Description> 
     </Country>
     <Country SelectedProvince="PthSavoy">
-      <CountryName></CountryName>
+      <CountryName>Księstwo Sabaudii</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Karol Emanuel I Wielki</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Katolicyzm</Religion>
+      <Description></Description>
     </Country>
     <Country SelectedProvince="PthBurgundy">
-      <CountryName></CountryName>
+      <CountryName>Franche-Comté</CountryName>
       <IsHRE>true</IsHRE>
       <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <RulerName>Unia personalna (Filip IV)</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Katolicyzm</Religion>
+      <Description>Franche-Comté było terytorium Francuskim pod rządami Habsburgów z linii hiszpańskiej.</Description>
     </Country>
     <Country SelectedProvince="PthLorraine">
-      <CountryName></CountryName>
+      <CountryName>Księstwo Lotaryngii</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Henryk II Lotaryński</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Katolicyzm</Religion>
+      <Description></Description>
     </Country>
     <Country SelectedProvince="PthWurttemberg">
-      <CountryName></CountryName>
+      <CountryName>Księstwo Wirtembergii</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Jan Fryderyk Wirtemberski</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Luteranizm</Religion>
+      <Description></Description>
     </Country>
     <Country SelectedProvince="PthBrandemburg">
-      <CountryName></CountryName>
+      <CountryName>Księstwo Brandemburgii</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Jan Zygmunt Hohenzollern</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
+      <Religion>Kalwinizm</Religion>
       <Description></Description> 
     </Country>
     <Country SelectedProvince="PthPomerania">
-      <CountryName></CountryName>
+      <CountryName>Księstwo Meklemburgii</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Jan Albrecht II</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Luteranizm</Religion>
+      <Description></Description>
     </Country>
     <Country SelectedProvince="PthFranken">
-      <CountryName></CountryName>
+      <CountryName>Frankonia</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
+      <IsHabsburg>false</IsHabsburg>
       <RulerName></RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Katolicyzm</Religion>
+      <Description></Description>
     </Country>
     <Country SelectedProvince="PthHessen">
-      <CountryName></CountryName>
+      <CountryName>Księstwo Hesji</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Maurycy Uczony</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Luteranizm</Religion>
+      <Description></Description>
     </Country>
     <Country SelectedProvince="PthHolstein">
-      <CountryName></CountryName>
+      <CountryName>Księstwo Holsztynu</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Fryderyk VI Oldenburg</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Luteranizm</Religion>
+      <Description></Description>
     </Country>
     <Country SelectedProvince="PthMecklenburg">
-      <CountryName></CountryName>
+      <CountryName>Księstwo Meklemburgii</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Jan Albrecht II</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Luteranizm</Religion>
+      <Description></Description>
     </Country>
     <Country SelectedProvince="PthHamburg">
-      <CountryName></CountryName>
+      <CountryName>Hamburg</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
+      <IsHabsburg>false</IsHabsburg>
       <RulerName></RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Luteranizm</Religion>
+      <Description></Description>
     </Country>
     <Country SelectedProvince="PthLuxemburg">
-      <CountryName></CountryName>
+      <CountryName>Luksemburg</CountryName>
       <IsHRE>true</IsHRE>
       <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
-      <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <RulerName>Filip IV</RulerName>
+      <Reason>2</Reason>
+      <Religion>Katolicyzm</Religion>
+      <Description>Luksemburg znajdował się w tym czasie pod władaniem hiszpańskich Habsburgów.</Description>
     </Country>
     <Country SelectedProvince="PthLiege">
-      <CountryName></CountryName>
+      <CountryName>Liege</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
+      <IsHabsburg>false</IsHabsburg>
       <RulerName></RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Katolicyzm</Religion>
+      <Description></Description>
     </Country>
     <Country SelectedProvince="PthCologne">
-      <CountryName></CountryName>
+      <CountryName>Kolonia</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
+      <IsHabsburg>false</IsHabsburg>
       <RulerName></RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
-    </Country>
-    <Country SelectedProvince="PthFlanders">
-      <CountryName></CountryName>
-      <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
-      <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Katolicyzm</Religion>
+      <Description></Description>
     </Country>
     <Country SelectedProvince="PthDutch">
-      <CountryName></CountryName>
+      <CountryName>Republika Zjednoczonych Prowincji</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Maurycy Orański</RulerName>
+      <Reason>1</Reason>
+      <Religion>Kalwinizm</Religion>
+      <Description>Republika Zjednoczonych Prowincji walczyła w tym czasie z Hiszpanią. Powodem konfliktu były roszczenia Hiszpanii do tronu Niderlandów. Był to silny ośrodek protestantyzmu w Europie.</Description>
+    </Country>
+    <Country SelectedProvince="PthFlanders">
+      <CountryName>Hiszpańskie Niderlandy</CountryName>
       <IsHRE>true</IsHRE>
       <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
-      <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <RulerName>Filip IV</RulerName>
+      <Reason>2</Reason>
+      <Religion>Katolicyzm</Religion>
+      <Description>Republika Zjednoczonych Prowincji walczyła w tym czasie z Hiszpanią. Powodem konfliktu były roszczenia Hiszpanii do tronu Niderlandów. Był to silny ośrodek protestantyzmu w Europie.</Description>
     </Country>
     <Country SelectedProvince="PthMunster">
-      <CountryName></CountryName>
+      <CountryName>Westfalia</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
+      <IsHabsburg>false</IsHabsburg>
       <RulerName></RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Luteranizm</Religion>
+      <Description></Description>
     </Country>
     <Country SelectedProvince="PthBrunswick">
-      <CountryName></CountryName>
+      <CountryName>Księstwo Brunszwiku</CountryName>
       <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Fryderyk Ulryk</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Kalwinizm</Religion>
+      <Description></Description>
     </Country>
     <Country SelectedProvince="PthItalies">
-      <CountryName></CountryName>
-      <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
+      <CountryName>Milan i Wenecja</CountryName>
+      <IsHRE>false</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
       <RulerName></RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Katolicyzm</Religion>
+      <Description>Milan (Członek Świętego Cesarstwa Rzymskiego) i Wenecja nie uczestniczyły w wojnie</Description>
     </Country>
     <Country SelectedProvince="PthHungary">
-      <CountryName></CountryName>
-      <IsHRE>true</IsHRE>
+      <CountryName>Królestwo Węgier</CountryName>
+      <IsHRE>false</IsHRE>
       <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
-      <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <RulerName>Unia personalna</RulerName>
+      <Reason>2</Reason>
+      <Religion>Kalwinizm</Religion>
+      <Description>Na tronie węgier zasiadał Habsburg z linii cesarskiej, czyli ta sama osoba co na tronie Czech. Z powodu braku przynależności Węgier do Cesarstwa, trudno było określić jednolite wyznanie. Jako że Węgrzy w większości wyznawali Kalwinizm, dochodziło na tym tle do sporów.</Description>
     </Country>
     <Country SelectedProvince="PthPoland">
-      <CountryName></CountryName>
-      <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <CountryName>Rzeczpospolita Obojga Narodów</CountryName>
+      <IsHRE>false</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Jan II Kazimierz</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Katolicyzm</Religion>
+      <Description>Rzeczpospolita Obojga Narodów była unią personalną Polski i Litwy, kontynuowaną po wygaśnięciu dynastii Jagiellonów. Państwem władali królowe elekcyjni. Rzeczpospolita nie brałą udziału w Wojnie Trzydziestoletniej, za wyjątkiem grupy najemników - Lisowczyków, którzy wyróżniali się wyjątkową bezwzględnością.</Description>
     </Country>
     <Country SelectedProvince="PthDennmark">
-      <CountryName></CountryName>
-      <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <CountryName>Królestwo Danii i Norwegii</CountryName>
+      <IsHRE>false</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Chrystian IV Oldenburg</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Luteranizm</Religion>
+      <Description></Description>
     </Country>
     <Country SelectedProvince="PthSweden">
-      <CountryName></CountryName>
-      <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <CountryName>Królestwo Szwecji</CountryName>
+      <IsHRE>false</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Gustaw II Adolf</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
+      <Religion>Luteranizm</Religion>
       <Description></Description> 
     </Country>
     <Country SelectedProvince="PthEngland">
-      <CountryName></CountryName>
-      <IsHRE>true</IsHRE>
-      <IsHabsburg>true</IsHabsburg>
-      <RulerName></RulerName>
+      <CountryName>Anglia</CountryName>
+      <IsHRE>false</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Jakub I Stuart</RulerName>
       <Reason></Reason>
-      <Religion></Religion>
-      <Description></Description> 
+      <Religion>Anglikanizm</Religion>
+      <Description>Poza próbą mediacji między czeskimi rebeliantami a cesarzem, Anglia nie uczestniczyła w wojnie.</Description>
     </Country>
     <Country SelectedProvince="PthFrance">
-      <CountryName></CountryName>
+      <CountryName>Królestwo Francji</CountryName>
+      <IsHRE>false</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Ludwik XIII Sprawiedliwy</RulerName>
+      <Reason></Reason>
+      <Religion>Katolicyzm</Religion>
+      <Description></Description>
+    </Country>
+  </Year>
+  <Year CurrentSliderValue="2" CurrentYear="1619 r.">
+    <Country SelectedProvince="PthAustria">
+      <CountryName>Austria</CountryName>
       <IsHRE>true</IsHRE>
       <IsHabsburg>true</IsHabsburg>
+      <RulerName>Ferdynand II Habsburg</RulerName>
+      <Reason>2</Reason>
+      <Religion>Katolicyzm</Religion>
+      <Description>Austria jako stolica Habsburgów wysyła wojska przeciwko buntownikom w Królestwie Czeskim. W tym samym czasie na południu Austrii wybucha powstanie religijne, które prowadzi do oblężenia Wiednia.</Description> 
+    </Country>
+    <Country SelectedProvince="PthSaxony">
+      <CountryName>Saksonia</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Jan Jerzy I Wettyn</RulerName>
+      <Reason></Reason>
+      <Religion>Luteranizm</Religion>
+      <Description></Description>
+    </Country>
+    <Country SelectedProvince="PthPalatinate">
+      <CountryName>Elektorat Palatynatu</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Fryderyk V Wittelsbach</RulerName>
+      <Reason>1</Reason>
+      <Religion>Kalwinizm</Religion>
+      <Description></Description>
+    </Country>
+    <Country SelectedProvince="PthBohemia">
+      <CountryName>Królestwo Czeskie</CountryName>
+      <IsHRE>false</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>???</RulerName>
+      <Reason>1</Reason>
+      <Religion>Husytyzm</Religion>
+      <Description>Po śmierci Macieja Habsburga tron odziedziczył Ferdynand II Habsburg, katolik. Wedłuj protestanckiej szlachty czeskiej, prawowitym następcą tronu był Fryderyk V. Dodatkowo, czesi przyłączyli się do Unii Protestanckiej, inicjując serię powstań na tle religijnym w Austrii i Transylwanii</Description> 
+    </Country>
+    <Country SelectedProvince="PthBavaria">
+      <CountryName>Księstwo Bawarii</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Maksymilian I Bawarski</RulerName>
+      <Reason></Reason>
+      <Religion>Katolicyzm</Religion>
+      <Description></Description>
+    </Country>
+    <Country SelectedProvince="PthSwiss">
+      <CountryName>Szwajcaria</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Arystokracja</RulerName>
+      <Reason></Reason>
+      <Religion>Zwilingianizm</Religion>
+      <Description>Szwajcaria od momentu wywalczenia praw do wyznawania swojej odmiany protestantyzmu (w czasie wojenj religijnych w XVI w.) nie angażowała się w żadne wojny. Nie przeszkadzało to szwajcarom formować się w oddziały najemników.</Description>
+    </Country>
+    <Country SelectedProvince="PthSavoy">
+      <CountryName>Księstwo Sabaudii</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Karol Emanuel I Wielki</RulerName>
+      <Reason></Reason>
+      <Religion>Katolicyzm</Religion>
+      <Description></Description>
+    </Country>
+    <Country SelectedProvince="PthBurgundy">
+      <CountryName>Franche-Comté</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName>Unia personalna (Filip IV)</RulerName>
+      <Reason></Reason>
+      <Religion>Katolicyzm</Religion>
+      <Description>Franche-Comté było terytorium Francuskim pod rządami Habsburgów z linii hiszpańskiej.</Description>
+    </Country>
+    <Country SelectedProvince="PthLorraine">
+      <CountryName>Księstwo Lotaryngii</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Henryk II Lotaryński</RulerName>
+      <Reason></Reason>
+      <Religion>Katolicyzm</Religion>
+      <Description></Description>
+    </Country>
+    <Country SelectedProvince="PthWurttemberg">
+      <CountryName>Księstwo Wirtembergii</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Jan Fryderyk Wirtemberski</RulerName>
+      <Reason></Reason>
+      <Religion>Luteranizm</Religion>
+      <Description></Description>
+    </Country>
+    <Country SelectedProvince="PthBrandemburg">
+      <CountryName>Księstwo Brandemburgii</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Jan Zygmunt Hohenzollern</RulerName>
+      <Reason></Reason>
+      <Religion>Kalwinizm</Religion>
+      <Description></Description>
+    </Country>
+    <Country SelectedProvince="PthPomerania">
+      <CountryName>Księstwo Meklemburgii</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Jan Albrecht II</RulerName>
+      <Reason></Reason>
+      <Religion>Luteranizm</Religion>
+      <Description></Description>
+    </Country>
+    <Country SelectedProvince="PthFranken">
+      <CountryName>Frankonia</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
       <RulerName></RulerName>
       <Reason></Reason>
-      <Religion></Religion>
+      <Religion>Katolicyzm</Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthHessen">
+      <CountryName>Księstwo Hesji</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Maurycy Uczony</RulerName>
+      <Reason></Reason>
+      <Religion>Luteranizm</Religion>
+      <Description></Description>
+    </Country>
+    <Country SelectedProvince="PthHolstein">
+      <CountryName>Księstwo Holsztynu</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Fryderyk VI Oldenburg</RulerName>
+      <Reason></Reason>
+      <Religion>Luteranizm</Religion>
+      <Description></Description>
+    </Country>
+    <Country SelectedProvince="PthMecklenburg">
+      <CountryName>Księstwo Meklemburgii</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Jan Albrecht II</RulerName>
+      <Reason></Reason>
+      <Religion>Luteranizm</Religion>
+      <Description></Description>
+    </Country>
+    <Country SelectedProvince="PthHamburg">
+      <CountryName>Hamburg</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion>Luteranizm</Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthLuxemburg">
+      <CountryName>Luksemburg</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName>Filip IV</RulerName>
+      <Reason>2</Reason>
+      <Religion>Katolicyzm</Religion>
+      <Description>Luksemburg znajdował się w tym czasie pod władaniem hiszpańskich Habsburgów.</Description>
+    </Country>
+    <Country SelectedProvince="PthLiege">
+      <CountryName>Liege</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion>Katolicyzm</Religion>
+      <Description></Description>
+    </Country>
+    <Country SelectedProvince="PthCologne">
+      <CountryName>Kolonia</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion>Katolicyzm</Religion>
+      <Description></Description>
+    </Country>
+    <Country SelectedProvince="PthDutch">
+      <CountryName>Republika Zjednoczonych Prowincji</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Maurycy Orański</RulerName>
+      <Reason>1</Reason>
+      <Religion>Kalwinizm</Religion>
+      <Description>Republika Zjednoczonych Prowincji walczyła w tym czasie z Hiszpanią. Powodem konfliktu były roszczenia Hiszpanii do tronu Niderlandów. Był to silny ośrodek protestantyzmu w Europie.</Description>
+    </Country>
+    <Country SelectedProvince="PthFlanders">
+      <CountryName>Hiszpańskie Niderlandy</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName>Filip IV</RulerName>
+      <Reason>2</Reason>
+      <Religion>Katolicyzm</Religion>
+      <Description>Republika Zjednoczonych Prowincji walczyła w tym czasie z Hiszpanią. Powodem konfliktu były roszczenia Hiszpanii do tronu Niderlandów. Był to silny ośrodek protestantyzmu w Europie.</Description>
+    </Country>
+    <Country SelectedProvince="PthMunster">
+      <CountryName>Westfalia</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion>Luteranizm</Religion>
+      <Description></Description>
+    </Country>
+    <Country SelectedProvince="PthBrunswick">
+      <CountryName>Księstwo Brunszwiku</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Fryderyk Ulryk</RulerName>
+      <Reason></Reason>
+      <Religion>Kalwinizm</Religion>
+      <Description></Description>
+    </Country>
+    <Country SelectedProvince="PthItalies">
+      <CountryName>Milan i Wenecja</CountryName>
+      <IsHRE>false</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion>Katolicyzm</Religion>
+      <Description>Milan (Członek Świętego Cesarstwa Rzymskiego) i Wenecja nie uczestniczyły w wojnie</Description>
+    </Country>
+    <Country SelectedProvince="PthHungary">
+      <CountryName>Królestwo Węgier</CountryName>
+      <IsHRE>false</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName>Unia personalna</RulerName>
+      <Reason>2</Reason>
+      <Religion>Kalwinizm</Religion>
+      <Description>Na tronie węgier zasiadał Habsburg z linii cesarskiej, czyli ta sama osoba co na tronie Czech. Z powodu braku przynależności Węgier do Cesarstwa, trudno było określić jednolite wyznanie. Jako że Węgrzy w większości wyznawali Kalwinizm, dochodziło na tym tle do sporów.</Description>
+    </Country>
+    <Country SelectedProvince="PthPoland">
+      <CountryName>Rzeczpospolita Obojga Narodów</CountryName>
+      <IsHRE>false</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Jan II Kazimierz</RulerName>
+      <Reason></Reason>
+      <Religion>Katolicyzm</Religion>
+      <Description>Rzeczpospolita Obojga Narodów była unią personalną Polski i Litwy, kontynuowaną po wygaśnięciu dynastii Jagiellonów. Państwem władali królowe elekcyjni. Rzeczpospolita nie brałą udziału w Wojnie Trzydziestoletniej, za wyjątkiem grupy najemników - Lisowczyków, którzy wyróżniali się wyjątkową bezwzględnością.</Description>
+    </Country>
+    <Country SelectedProvince="PthDennmark">
+      <CountryName>Królestwo Danii i Norwegii</CountryName>
+      <IsHRE>false</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Chrystian IV Oldenburg</RulerName>
+      <Reason></Reason>
+      <Religion>Luteranizm</Religion>
+      <Description></Description>
+    </Country>
+    <Country SelectedProvince="PthSweden">
+      <CountryName>Królestwo Szwecji</CountryName>
+      <IsHRE>false</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Gustaw II Adolf</RulerName>
+      <Reason></Reason>
+      <Religion>Luteranizm</Religion>
+      <Description></Description>
+    </Country>
+    <Country SelectedProvince="PthEngland">
+      <CountryName>Anglia</CountryName>
+      <IsHRE>false</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Jakub I Stuart</RulerName>
+      <Reason></Reason>
+      <Religion>Anglikanizm</Religion>
+      <Description>Poza próbą mediacji między czeskimi rebeliantami a cesarzem, Anglia nie uczestniczyła w wojnie.</Description>
+    </Country>
+    <Country SelectedProvince="PthFrance">
+      <CountryName>Królestwo Francji</CountryName>
+      <IsHRE>false</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Ludwik XIII Sprawiedliwy</RulerName>
+      <Reason></Reason>
+      <Religion>Katolicyzm</Religion>
+      <Description></Description>
+    </Country>
+  </Year>
+  <Year CurrentSliderValue="3" CurrentYear="1620 r.">
+    <Country SelectedProvince="PthAustria">
+      <CountryName>Austria</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName>Ferdynand II Habsburg</RulerName>
+      <Reason>2</Reason>
+      <Religion>Katolicyzm</Religion>
+      <Description>Austria jako stolica Habsburgów wysyła wojska przeciwko buntownikom w Królestwie Czeskim. W tym samym czasie na południu Austrii wybucha powstanie religijne, które prowadzi do oblężenia Wiednia.</Description> 
+    </Country>
+    <Country SelectedProvince="PthSaxony">
+      <CountryName>Saksonia</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Jan Jerzy I Wettyn</RulerName>
+      <Reason></Reason>
+      <Religion>Luteranizm</Religion>
+      <Description></Description>
+    </Country>
+    <Country SelectedProvince="PthPalatinate">
+      <CountryName>Elektorat Palatynatu</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Fryderyk V Wittelsbach</RulerName>
+      <Reason>1</Reason>
+      <Religion>Kalwinizm</Religion>
+      <Description></Description>
+    </Country>
+    <Country SelectedProvince="PthBohemia">
+      <CountryName>Królestwo Czeskie</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName>Ferdynand II Habsburg</RulerName>
+      <Reason>2</Reason>
+      <Religion>Katolicyzm</Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthBavaria">
+      <CountryName>Księstwo Bawarii</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Maksymilian I Bawarski</RulerName>
+      <Reason></Reason>
+      <Religion>Katolicyzm</Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthSwiss">
+      <CountryName>Szwajcaria</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Arystokracja</RulerName>
+      <Reason></Reason>
+      <Religion>Zwilingianizm</Religion>
+      <Description>Szwajcaria od momentu wywalczenia praw do wyznawania swojej odmiany protestantyzmu (w czasie wojenj religijnych w XVI w.) nie angażowała się w żadne wojny. Nie przeszkadzało to szwajcarom formować się w oddziały najemników.</Description>
+    </Country>
+    <Country SelectedProvince="PthSavoy">
+      <CountryName>Księstwo Sabaudii</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Karol Emanuel I Wielki</RulerName>
+      <Reason></Reason>
+      <Religion>Katolicyzm</Religion>
+      <Description></Description>
+    </Country>
+    <Country SelectedProvince="PthBurgundy">
+      <CountryName>Franche-Comté</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName>Unia personalna (Filip IV)</RulerName>
+      <Reason></Reason>
+      <Religion>Katolicyzm</Religion>
+      <Description>Franche-Comté było terytorium Francuskim pod rządami Habsburgów z linii hiszpańskiej.</Description>
+    </Country>
+    <Country SelectedProvince="PthLorraine">
+      <CountryName>Księstwo Lotaryngii</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Henryk II Lotaryński</RulerName>
+      <Reason></Reason>
+      <Religion>Katolicyzm</Religion>
+      <Description></Description>
+    </Country>
+    <Country SelectedProvince="PthWurttemberg">
+      <CountryName>Księstwo Wirtembergii</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Jan Fryderyk Wirtemberski</RulerName>
+      <Reason></Reason>
+      <Religion>Luteranizm</Religion>
+      <Description></Description>
+    </Country>
+    <Country SelectedProvince="PthBrandemburg">
+      <CountryName>Księstwo Brandemburgii</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Jerzy Wilhelm Hohenzollern</RulerName>
+      <Reason></Reason>
+      <Religion>Kalwinizm</Religion>
+      <Description></Description>
+    </Country>
+    <Country SelectedProvince="PthPomerania">
+      <CountryName>Księstwo Meklemburgii</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Jan Albrecht II</RulerName>
+      <Reason></Reason>
+      <Religion>Luteranizm</Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthFranken">
+      <CountryName>Frankonia</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion>Katolicyzm</Religion>
+      <Description></Description>
+    </Country>
+    <Country SelectedProvince="PthHessen">
+      <CountryName>Księstwo Hesji</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Maurycy Uczony</RulerName>
+      <Reason></Reason>
+      <Religion>Luteranizm</Religion>
+      <Description></Description>
+    </Country>
+    <Country SelectedProvince="PthHolstein">
+      <CountryName>Księstwo Holsztynu</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Fryderyk VI Oldenburg</RulerName>
+      <Reason></Reason>
+      <Religion>Luteranizm</Religion>
+      <Description></Description> 
+    </Country>
+    <Country SelectedProvince="PthMecklenburg">
+      <CountryName>Księstwo Meklemburgii</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Jan Albrecht II</RulerName>
+      <Reason></Reason>
+      <Religion>Luteranizm</Religion>
+      <Description></Description>
+    </Country>
+    <Country SelectedProvince="PthHamburg">
+      <CountryName>Hamburg</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion>Luteranizm</Religion>
+      <Description></Description>
+    </Country>
+    <Country SelectedProvince="PthLuxemburg">
+      <CountryName>Luksemburg</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName>Filip IV</RulerName>
+      <Reason>2</Reason>
+      <Religion>Katolicyzm</Religion>
+      <Description>Luksemburg znajdował się w tym czasie pod władaniem hiszpańskich Habsburgów.</Description>
+    </Country>
+    <Country SelectedProvince="PthLiege">
+      <CountryName>Liege</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion>Katolicyzm</Religion>
+      <Description></Description>
+    </Country>
+    <Country SelectedProvince="PthCologne">
+      <CountryName>Kolonia</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion>Katolicyzm</Religion>
+      <Description></Description>
+    </Country>
+    <Country SelectedProvince="PthDutch">
+      <CountryName>Republika Zjednoczonych Prowincji</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Maurycy Orański</RulerName>
+      <Reason>1</Reason>
+      <Religion>Kalwinizm</Religion>
+      <Description>Republika Zjednoczonych Prowincji walczyła w tym czasie z Hiszpanią. Powodem konfliktu były roszczenia Hiszpanii do tronu Niderlandów. Był to silny ośrodek protestantyzmu w Europie.</Description>
+    </Country>
+    <Country SelectedProvince="PthFlanders">
+      <CountryName>Hiszpańskie Niderlandy</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName>Filip IV</RulerName>
+      <Reason>2</Reason>
+      <Religion>Katolicyzm</Religion>
+      <Description>Republika Zjednoczonych Prowincji walczyła w tym czasie z Hiszpanią. Powodem konfliktu były roszczenia Hiszpanii do tronu Niderlandów. Był to silny ośrodek protestantyzmu w Europie.</Description>
+    </Country>
+    <Country SelectedProvince="PthMunster">
+      <CountryName>Westfalia</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion>Luteranizm</Religion>
+      <Description></Description>
+    </Country>
+    <Country SelectedProvince="PthBrunswick">
+      <CountryName>Księstwo Brunszwiku</CountryName>
+      <IsHRE>true</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Fryderyk Ulryk</RulerName>
+      <Reason></Reason>
+      <Religion>Kalwinizm</Religion>
+      <Description></Description>
+    </Country>
+    <Country SelectedProvince="PthItalies">
+      <CountryName>Milan i Wenecja</CountryName>
+      <IsHRE>false</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName></RulerName>
+      <Reason></Reason>
+      <Religion>Katolicyzm</Religion>
+      <Description>Milan (Członek Świętego Cesarstwa Rzymskiego) i Wenecja nie uczestniczyły w wojnie</Description>
+    </Country>
+    <Country SelectedProvince="PthHungary">
+      <CountryName>Królestwo Węgier</CountryName>
+      <IsHRE>false</IsHRE>
+      <IsHabsburg>true</IsHabsburg>
+      <RulerName>Unia personalna</RulerName>
+      <Reason>2</Reason>
+      <Religion>Kalwinizm</Religion>
+      <Description>Na tronie węgier zasiadał Habsburg z linii cesarskiej, czyli ta sama osoba co na tronie Czech. Z powodu braku przynależności Węgier do Cesarstwa, trudno było określić jednolite wyznanie. Jako że Węgrzy w większości wyznawali Kalwinizm, dochodziło na tym tle do sporów.</Description>
+    </Country>
+    <Country SelectedProvince="PthPoland">
+      <CountryName>Rzeczpospolita Obojga Narodów</CountryName>
+      <IsHRE>false</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Jan II Kazimierz</RulerName>
+      <Reason></Reason>
+      <Religion>Katolicyzm</Religion>
+      <Description>Rzeczpospolita Obojga Narodów była unią personalną Polski i Litwy, kontynuowaną po wygaśnięciu dynastii Jagiellonów. Państwem władali królowe elekcyjni. Rzeczpospolita nie brałą udziału w Wojnie Trzydziestoletniej, za wyjątkiem grupy najemników - Lisowczyków, którzy wyróżniali się wyjątkową bezwzględnością.</Description> 
+    </Country>
+    <Country SelectedProvince="PthDennmark">
+      <CountryName>Królestwo Danii i Norwegii</CountryName>
+      <IsHRE>false</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Chrystian IV Oldenburg</RulerName>
+      <Reason></Reason>
+      <Religion>Luteranizm</Religion>
+      <Description></Description>
+    </Country>
+    <Country SelectedProvince="PthSweden">
+      <CountryName>Królestwo Szwecji</CountryName>
+      <IsHRE>false</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Gustaw II Adolf</RulerName>
+      <Reason></Reason>
+      <Religion>Luteranizm</Religion>
+      <Description></Description>
+    </Country>
+    <Country SelectedProvince="PthEngland">
+      <CountryName>Anglia</CountryName>
+      <IsHRE>false</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Jakub I Stuart</RulerName>
+      <Reason></Reason>
+      <Religion>Anglikanizm</Religion>
+      <Description>Poza próbą mediacji między czeskimi rebeliantami a cesarzem, Anglia nie uczestniczyła w wojnie.</Description>
+    </Country>
+    <Country SelectedProvince="PthFrance">
+      <CountryName>Królestwo Francji</CountryName>
+      <IsHRE>false</IsHRE>
+      <IsHabsburg>false</IsHabsburg>
+      <RulerName>Ludwik XIII Sprawiedliwy</RulerName>
+      <Reason></Reason>
+      <Religion>Katolicyzm</Religion>
       <Description></Description> 
     </Country>
   </Year>

@@ -85,6 +85,7 @@
     </Compile>
     <Compile Include="Converters\CvtStringToVisibility.cs" />
     <Compile Include="Converters\CvtBoolToVisibility.cs" />
+    <Compile Include="Dictionaries\ColorDictionary.cs" />
     <Compile Include="Dictionaries\ReasonDescriptionDictionary.cs" />
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
@@ -109,6 +110,7 @@
     <Content Include="HistoryData.xml">
       <SubType>Designer</SubType>
     </Content>
+    <Content Include="postep.txt" />
     <Resource Include="Assets\Maps\tyw.png" />
     <Resource Include="Assets\Maps\1512_Imperial_Circles.png" />
     <Resource Include="Assets\Maps\kreise.jpg" />
