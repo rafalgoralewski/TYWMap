@@ -1,26 +1,30 @@
 
     
 
-
+	
+PthLorraine,   1634 - Miko³aj II Lotaryñski
 PthAustria,  1637 - Ferdynand III Habsburg
-PthDutch, 	1625 - Fryderyk Henryk Orañski, 1647 - Wilhelm II Orañski
-PthEngland,     1625 - Karol I Stuart
+PthDutch, 	1647 - Wilhelm II Orañski
 PthBrunswick,	1634 - August M³odszy
-PthPalatinate, 1623 - Maksymilian I Bawarski (unia personalna z Bawari¹)
 PthBohemia, 1637 - Ferdynand III Habsburg
-PthBavaria, 1623 - Elektorat Bawarii(wladca zostaje)
-PthSavoy,        1630 - Wiktor Amadeusz I, 1637 - Franciszek Hiacynt, 1628 - Karol Emanuel II  
-PthLorraine,     1624 - Karol IV Lotaryñski, 1634 - Miko³aj II Lotaryñski
-PthWurttemberg, 1628 - Eberhard III Wirtemberski,
+PthSavoy,        1630 - Wiktor Amadeusz I, 
+PthSavoy,        1637 - Franciszek Hiacynt,
+PthSavoy,        1638 - Karol Emanuel II  
 PthBrandemburg,  1640 - Fryderyk Wilhelm Hohenzollern
 PthMecklenburg, 1636 - Gustaw Adolf
 PthPomerania,  1636 - Gustaw Adolf, DO SZWECJI
-PthHessen,  1627-1637 – Wilhelm V Sta³y (syn), 1637-1663 – Wilhelm VI Sprawiedliwy (syn)
-PthHolstein,      1839–1848: Chrystian VIII Oldenburg (tak¿e król Danii)  
-PthSweden,		1632 - Krystyna Waza 
+PthHessen,  1637 – Wilhelm VI Sprawiedliwy (syn)
+PthSweden,	1632 - Krystyna Waza 
 PthFrance	1643 - Ludwik XIV Wielki
 
 
+PthWurttemberg, 1628 - Eberhard III Wirtemberski,
+PthBavaria, 1623 - Elektorat Bawarii(wladca zostaje)
+PthPalatinate, 1623 - Maksymilian I Bawarski (unia personalna z Bawari¹)
+PthLorraine,     1624 - Karol IV Lotaryñski,
+PthHessen,  1627 – Wilhelm V Sta³y (syn),
+PthDutch, 	1625 - Fryderyk Henryk Orañski,
+PthEngland,     1625 - Karol I Stuart
 	PthSaxony, 
 	PthLuxemburg, 
 	PthLiege, 
@@ -35,3 +39,4 @@ PthFrance	1643 - Ludwik XIV Wielki
 	PthFranken, 
 	PthHamburg, 
 	PthDennmark, 
+	PthHolstein,

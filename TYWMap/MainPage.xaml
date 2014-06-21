@@ -59,7 +59,7 @@
                             <RowDefinition Height="35" />
                         </Grid.RowDefinitions>
                         <TextBlock x:Name="TblCurrentYear" Text="{Binding CurrentYear, Mode=TwoWay}" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="50" />
-                        <Slider x:Name="SlrCurrentYear" Grid.Row="1" Maximum="32" BorderBrush="{x:Null}" ValueChanged="SlrCurrentYear_ValueChanged"/>
+                        <Slider x:Name="SlrCurrentYear" Grid.Row="1" Maximum="10" BorderBrush="{x:Null}" ValueChanged="SlrCurrentYear_ValueChanged"/>
                     </Grid>
                 </Canvas>
             </Canvas>
